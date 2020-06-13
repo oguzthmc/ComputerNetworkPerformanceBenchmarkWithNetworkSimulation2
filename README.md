@@ -5,7 +5,7 @@ There is a trace file of **The Network Simulation 2** program linked below.
 The file shows the performance values of a computer network.  
 <br>
 1- Find out what each column means.  
-2- Determine 5 performance criteria (in accordance with computer networks) 
+2- Determine 5 performance criteria (in accordance with computer networks)  
 3- Calculate each criterion according to time. Write Python code to calculate.  
 4- Draw a chart for each criterion. (With Python)  
 5- Interpret each graphic. (In the report)  
