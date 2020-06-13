@@ -3,6 +3,7 @@ Computer Architecture Course Project Assignment
 
 There is a trace file of **The Network Simulation 2** program linked below.  
 The file shows the performance values of a computer network.  
+<br>
 1- Find out what each column means.  
 2- Determine 5 performance criteria (in accordance with computer networks) 
 3- Calculate each criterion according to time. Write Python code to calculate.  
